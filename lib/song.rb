@@ -42,7 +42,4 @@ class Song
     
     hash
   end
-  
-  if hash includes rap, add +1 to rap
-  
 end
