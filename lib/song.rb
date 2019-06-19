@@ -33,7 +33,7 @@ class Song
     hash = {}
     
     genres.each do |x|
-      if hash.keys.include?(x)
+      if hash.keys.include)
         hash[x] += 
       else
         hash[x] = 1
